@@ -1,7 +1,7 @@
 # coffee-shop-bootstrap
 
   ## Description
-This is a mock-up of a fictional Coffee Shop's website. These responsive designs were made by using Bootstrap 5.2 and Bootstrap Studio. There is also a JavaScript function for displaying the current day on the 'store' page.
+This is a front-end web design project for a coffee shop using Bootstrap. The goal was to create a modern, visually appealing website that showcases the coffee shop's products, services, and atmosphere. This is a responsive website providing an optimal user experience for both desktop and mobile users.
 
 https://getbootstrap.com/
 https://bootstrapstudio.io/
